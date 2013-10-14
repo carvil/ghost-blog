@@ -44,7 +44,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://shrouded-castle-8131.herokuapp.com/',
+        url: 'http://shrouded-castle-8131.herokuapp.com',
         mail: {},
         database: {
             client: 'postgres',
