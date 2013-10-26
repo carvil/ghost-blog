@@ -1,4 +1,5 @@
-var path = require('path'),
+var newrelic = require('newrelic'),
+    path     = require('path'),
     config;
 
 config = {
