@@ -2,7 +2,8 @@
 // Defines core methods required to build the application
 
 // Module dependencies
-var config      = require('../config'),
+var newrelic    = require('newrelic'),
+    config      = require('../config'),
     when        = require('when'),
     express     = require('express'),
     errors      = require('./server/errorHandling'),
