@@ -280,6 +280,15 @@ pre {
     width: 14px;
 }
 
+.github-icon {
+    background: url(../images/white-octocat.png) no-repeat;
+    background-size: 14px 14px;
+    display: block;
+    background-position: 0 0;
+    height: 14px;
+    width: 14px;
+}
+
 .icon {
     background: url(../images/sprite-28-76-2x.png) no-repeat;
     background-size: 14px 38px;
